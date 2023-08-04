@@ -1,3 +1,4 @@
+# 测试是否正常接收tv消息
 import requests
 import json
 data = {'ticker': 'CFXUSDT.P', 'ex': 'BINANCE', 'close': '0.1857', 'open': '0.1853', 'high': '0.1857', 'low': '0.1852', 'time': '2023-07-07T21:00:00Z', 'volume': '1525695', 'interval': '10', 'position_size': '0', 'action': 'sell', 'contracts': '13.262', 'price': '0.1857', 'market_position': 'flat', 'market_position_size': '0', 'prev_market_position': 'long', 'prev_market_position_size': '13.262', 'action2': 'TakeProfit', 'port': '7795', 'symbol': 'CFXUSDT'}
