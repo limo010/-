@@ -1,0 +1,4 @@
+{"time": "2023-04-05 00:26:13", "xt": "开多", "延迟": 1.1650323867797852, "response": "{\"returnCode\":0,\"msgInfo\":\"success\",\"error\":null,\"result\":\"213588948638749056\"}"}
+{"time": "2023-04-05 00:26:14", "hc": "开空", "延迟": 1.692230224609375, "response": {"id": 169870923958496}}
+{"time": "2023-04-05 00:43:00", "xt": "平仓", "延迟": 1.54203462600708, "response": "{\"returnCode\":0,\"msgInfo\":\"success\",\"error\":null,\"result\":true}"}
+{"hc": "平仓", "延迟": 2.0818800926208496, "response": {"code": 200, "data": [{"orderId": 169871955082016, "price": 28216.9, "refConditionOrderId": null, "tag": null}], "msg": "success"}}
