@@ -1,0 +1,7 @@
+class MyClass:
+    my_variable = 42
+
+def my_function():
+    print(MyClass.my_variable)
+
+my_function()  # 输出: 42
